@@ -1,0 +1,99 @@
+
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/utahvalley.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.videoframe{
+    padding: 50px;
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header{
+   background-color: rgba(120,170,200); 
+   width: 100%;
+   height:auto;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   margin-top: none;
+   margin-left: none;
+   margin-right: none;
+   text-align: left;
+   display:flex;
+    
+
+}
+
+.headertext, a{
+    color: rgba(47, 23, 15, 0.65);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
+.graphscontainer{
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: blanchedalmond;
+    height:auto;
+    padding: 20px;
+
+}
+
+.urmom{
+    text-align:center;
+}
+
+.contacttext{
+    text-decoration: underline;
+}
+
+.othertext{
+    color: slategray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer{
+    width: 100vw;
+    height: auto;
+    background-color: rgba(120,170,200);
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.footertext{
+    font-size:medium;
+    color: lightgrey;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.graphdescription{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: small;
+}
+
+.commenttext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    font-size: medium;
+}
+
+.boldtext{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+
+
